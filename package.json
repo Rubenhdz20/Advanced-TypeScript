@@ -12,5 +12,8 @@
   "devDependencies": {
     "ts-node": "^10.9.2",
     "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "@capacitor/camera": "^6.0.2"
   }
 }
